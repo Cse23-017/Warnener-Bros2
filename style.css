@@ -50,6 +50,7 @@ main {
     padding: 50px;
     text-align: center;
     margin-bottom: 20px;
+    height: 800px;
 }
 .banner{
     display: "inline-flexbox";
@@ -80,7 +81,8 @@ main {
 }
 
 .btn:hover {
-    background-color: #000000;
+    background-color: #ffffff;
+    text-decoration-color: black;
 }
 .container{
     max-width: 400px;
