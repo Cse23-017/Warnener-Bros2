@@ -42,8 +42,22 @@ nav ul li a:hover{
     color: #0c0c0c;
 }
 
+mainpic{
+    width: 100%;
+    height: 80%;
+}
+
+mainpic-wrapper{
+    background-color: aliceblue;
+
+}
+
+p{ 
+    background: transparent;
+}
+
 main {
-    padding: 20px; 56363
+    padding: 20px;
 }
 
 .banner {
