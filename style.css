@@ -121,7 +121,7 @@ main {
 }
 .img-container{
     background-color: black;
-    width: 300px;
+    width: 350px;
     height: 500px;
     object-fit: cover; 
 }
