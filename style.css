@@ -132,8 +132,8 @@ main {
     grid-template-columns: repeat(10, 1fr) ;
 }
 .slider-wrapper .image-list .image-item{
-    width: 20% ;
-    height: 30% ;
+    width: 350px ;
+    height: 500px;
     object-fit: cover;
 }
 footer {
